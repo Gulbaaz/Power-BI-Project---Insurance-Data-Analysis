@@ -63,7 +63,8 @@ The dataset (**InsuranceData.csv**) contains details such as:
 ---
 
 ## 📸 Dashboard Images
-![Dashboard Page 1](./03_Images/1.png)  
+![Dashboard Page 1](./03_Images/1.png) 
+
 ![Dashboard Page 2](./03_Images/2.png)  
 
 ---
