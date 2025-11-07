@@ -79,5 +79,5 @@ The dataset (**InsuranceData.csv**) contains details such as:
 
 ## ✍️ Author
 **Gulbaaz**  
-DTU’22 | Aspiring Data & Business Analyst | SQL, Excel, Power BI Projects on GitHub  
+DTU’22 | Data & Business Analyst | SQL, Excel, Power BI Projects on GitHub  
 📫 [GitHub Profile](https://github.com/Gulbaaz)
